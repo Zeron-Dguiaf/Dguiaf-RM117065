@@ -1,3 +1,12 @@
+##################################################################
+## Analisis de los Saldos Iniciales y Finales => discrepancias  ##
+##--------------------------------------------------------------##
+## 2024-12-24                                                   ##
+## Version 2.6.0                                                ##
+## Zeron                                                        ##
+## RM 117065                                                    ##
+##################################################################
+
 import cx_Oracle
 import pandas as pd
 from openpyxl.styles import PatternFill
